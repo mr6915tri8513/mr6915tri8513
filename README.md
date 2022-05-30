@@ -1,16 +1,16 @@
-### Hi there 👋
+# I-am-nothing
 
-<!--
-**mr6915tri8513/mr6915tri8513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT
 
-Here are some ideas to get you started:
+TCIVS CSE 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything is like a boolean, which is between yes and no.
+
+If I could win the competition, I would be happier a lot.
+
+VIEW MY [BLOG](https://i-am-nothing.github.io)
+
+
+[![I-am-nothing's github stats](https://github-readme-stats.vercel.app/api?username=I-am-nothing&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![I-am-nothing's github streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-nothing&theme=blue-green&hide_border=true&layout=compact)](https://github.com/DenverCoder1/github-readme-streak-stats)
