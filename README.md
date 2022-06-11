@@ -4,7 +4,7 @@
 
 TCIVS CSE 💻
 
-There will be a sentence here :)
+I'm busy in building my blog recently.
 
 [![mr6915tri8513's github stats](https://github-readme-stats.vercel.app/api?username=mr6915tri8513&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
